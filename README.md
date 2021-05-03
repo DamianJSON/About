@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DamianJSON
-- 🌱 I’m currently learning Java Script
 
 <!---
 DamianJSON/DamianJSON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
